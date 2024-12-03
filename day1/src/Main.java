@@ -70,7 +70,7 @@ public class Main {
         Arrays.sort(left);
         Arrays.sort(right);
 
-        //Part1.run(left, right);
+        Part1.run(left, right);
         Part2.run(left, right);
     }
 }
